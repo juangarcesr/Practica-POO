@@ -4,7 +4,7 @@ class Paciente:
         self.__cedula = 0 
         self.__genero = '' 
         self.__servicio = '' 
-#entrada           
+#prueba de que todo esté funcionando correctamente      
     #metodos get    
     def verNombre(self):
         return self.__nombre 
