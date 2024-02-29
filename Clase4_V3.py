@@ -23,7 +23,7 @@ class Paciente:
         self.__genero = g 
     def asignarServicio(self,s):
         self.__servicio = s 
-        
+#primer cambio     
 class Sistema:    
     def __init__(self):
         self.__lista_pacientes = [] 
